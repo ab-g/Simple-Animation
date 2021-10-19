@@ -1,7 +1,9 @@
 {
-    "Camera/Position/X": 4.319224834442139,
-    "Camera/Position/Y": 2.9931468963623047,
-    "Camera/Position/Z": 5.981563091278076,
+    "26C45DFB-64A9-45F1-97D0-30DE8F039F70/SelectedTimelineObject": "0 0 ",
+    "26C45DFB-64A9-45F1-97D0-30DE8F039F70/UnfoldedTimelineNodes/6BCCE26A-0732-4E59-9224-90A9C816D98F": "Box",
+    "Camera/Position/X": 4.427720546722412,
+    "Camera/Position/Y": 3.0683326721191406,
+    "Camera/Position/Z": 6.131815433502197,
     "Camera/Rotation/W": 0.9338945150375366,
     "Camera/Rotation/X": -0.18222172558307648,
     "Camera/Rotation/Y": 0.30193382501602173,
@@ -14,5 +16,5 @@
     "SnapTypeRotation/SnapPreset1": 45,
     "SnapTypeRotation/SnapPreset2": 90,
     "SnapTypeRotation/SnapPresetSelected": 0,
-    "export/projectName": "New-Project-without-Character"
+    "export/projectName": "Simple Animation"
 }
