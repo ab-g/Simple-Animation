@@ -84,6 +84,28 @@
       },
       {
         "key": {
+          "uuid": "562EA09E-65E1-4BF2-8388-73F098B251B5"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "562EA09E-65E1-4BF2-8388-73F098B251B5"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "99D4CB6C-C27E-4968-9605-7588616AB1A3"
+        },
+        "value": {
+          "@class": "Material",
+          "id": {
+            "uuid": "99D4CB6C-C27E-4968-9605-7588616AB1A3"
+          }
+        }
+      },
+      {
+        "key": {
           "uuid": "DA135125-5C6A-44C5-A0E4-28E5636565C6"
         },
         "value": {
@@ -117,6 +139,17 @@
           "@class": "BoxMesh",
           "id": {
             "uuid": "3084B743-9849-4F56-89C2-AD78240C8215"
+          }
+        }
+      },
+      {
+        "key": {
+          "uuid": "AC2782C5-BDBE-4A5B-918C-97FD688B1049"
+        },
+        "value": {
+          "@class": "ConeMesh",
+          "id": {
+            "uuid": "AC2782C5-BDBE-4A5B-918C-97FD688B1049"
           }
         }
       }

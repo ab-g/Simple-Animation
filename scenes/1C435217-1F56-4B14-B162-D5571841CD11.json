@@ -49,7 +49,9 @@
         "D8E1D3DE-2BB8-4152-AD73-D8CFD5761AB5",
         "A0DAFCA4-98B7-44FF-B61E-24DDEDB47BB9",
         "69B3343E-0E21-4C30-8FA4-BC470CC0CAF2",
-        "9A55E42C-09CE-46A1-AA9A-151FC3E10F5F"
+        "9A55E42C-09CE-46A1-AA9A-151FC3E10F5F",
+        "8E4E6B92-07B1-46FD-9332-6E0844D5682A",
+        "D0F34AC1-3D06-4CA6-B377-49B0C0AB1A71"
       ]
     },
     {
@@ -321,6 +323,120 @@
               0,
               0,
               0,
+              0,
+              1
+            ]
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false
+        }
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "id": {
+          "uuid": "8E4E6B92-07B1-46FD-9332-6E0844D5682A"
+        },
+        "name": "Start",
+        "enabled": true,
+        "visible": true,
+        "hitVisible": true,
+        "geometry": {
+          "@class": "BaseComponentGeometry",
+          "meshId": {
+            "uuid": "AC2782C5-BDBE-4A5B-918C-97FD688B1049"
+          },
+          "static": false,
+          "shadowCast": true,
+          "shadowReceive": true
+        },
+        "material": {
+          "@class": "BaseComponentMaterial",
+          "materialId": {
+            "uuid": "562EA09E-65E1-4BF2-8388-73F098B251B5"
+          },
+          "mapsStates": 0
+        },
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "localTransforms": {
+            "values": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              1.5,
+              0,
+              1
+            ]
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false
+        }
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "id": {
+          "uuid": "D0F34AC1-3D06-4CA6-B377-49B0C0AB1A71"
+        },
+        "name": "End",
+        "enabled": true,
+        "visible": true,
+        "hitVisible": true,
+        "geometry": {
+          "@class": "BaseComponentGeometry",
+          "meshId": {
+            "uuid": "AC2782C5-BDBE-4A5B-918C-97FD688B1049"
+          },
+          "static": false,
+          "shadowCast": true,
+          "shadowReceive": true
+        },
+        "material": {
+          "@class": "BaseComponentMaterial",
+          "materialId": {
+            "uuid": "99D4CB6C-C27E-4968-9605-7588616AB1A3"
+          },
+          "mapsStates": 0
+        },
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "localTransforms": {
+            "values": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              5,
+              1.5,
               0,
               1
             ]
