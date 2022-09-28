@@ -9,7 +9,7 @@
   "detailType": "none",
   "lightningType": "perPixel",
   "colorsType": "no",
-  "shadingType": "textured",
+  "shadingType": "pbr",
   "sideType": "front",
   "depthType": "default",
   "ambient": {
@@ -49,7 +49,7 @@
   },
   "opacity": 1,
   "shininess": 6.311791896820068,
-  "metalness": 1,
+  "metalness": 0,
   "roughness": 1,
   "refraction": 0.5,
   "rimIntensity": 1,
